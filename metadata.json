@@ -1,0 +1,6 @@
+{
+  "name": "Dusk",
+  "description": "A mindful mood and sleep check-in journal with moon phases, correlation insights, and local data export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
